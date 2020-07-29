@@ -1,0 +1,22 @@
+.s-logo{
+	padding-top: 0.12em !important;
+	padding-bottom: 0.12em !important;
+}
+.s-footer{
+	padding-top: 5em !important;
+	padding-bottom: 5em !important;
+}
+
+/* ------text------- */
+.s-text-thin{
+	font-weight: 300 !important;
+}
+.s-text-spaced{
+	letter-spacing: 1px !important;
+}
+.s-text-lined{
+	line-height: 1.8 !important;
+}
+.s-text-opacity-mini{
+	opacity: 0.6 !important;
+}
